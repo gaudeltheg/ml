@@ -1,5 +1,5 @@
 # Virtual environment
-venv/
+ml_venv/
 .env/
 *.pyc
 __pycache__/
